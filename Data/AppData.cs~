@@ -1,0 +1,6 @@
+﻿namespace RoomReservationAPI.Data;
+
+public class AppData
+{
+    
+}
